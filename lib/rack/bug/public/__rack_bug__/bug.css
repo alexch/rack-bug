@@ -184,3 +184,8 @@
   text-indent: -3000px;
   color: transparent;
 }
+
+#rack_bug td.syntax {
+  overflow-x: auto;
+  max-width: 80em;
+}
